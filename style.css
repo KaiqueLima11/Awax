@@ -84,7 +84,7 @@ body {
 .banner {
     height: calc(100vh - 100px);
     background-color: #333;
-    background-image: url(mesa.jpg);
+    background-image: url(images/mesa.jpg);
     background-size: cover;
     background-position: bottom;
     overflow-x: hidden;
